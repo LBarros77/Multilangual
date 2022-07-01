@@ -1,0 +1,8 @@
+{
+    "sidebar_text": "This is a sidebar text",
+    "left": "Left",
+    "buy": "Buy",
+    "please_set_quantity": "Please set quantity",
+    "quantity_should_be_lower": "Quantity should be lower than {{quantity}}",
+    "congratulation": "Congratulation on your order"
+}
